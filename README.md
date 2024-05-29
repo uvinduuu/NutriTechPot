@@ -61,16 +61,16 @@ Initially, we planned to use a Wi-Fi module (ESP 8266) for communication between
 ## Designs
 
 ### Schematic Diagram
-![Schematic Diagram](Documentation/Images/SchematicDiagram.jpg)
+![Schematic Diagram](Images/SchematicDiagram.jpg)
 
 ### NutriTech Pot App
-![NutriTech Pot App](Documentation/Images/Application.jpg)
+![NutriTech Pot App](Images/Application.jpg)
 
 ### Altium Design
-![Altium Design](Documentation/Images/AltiumDesign.jpg)
+![Altium Design](Images/AltiumDesign.jpg)
 
 ### Final Enclosure
-![Final Enclosure](Documentation/Images/EnclosureDesign.jpg)
+![Final Enclosure](Images/EnclosureDesign.jpg)
 
 ---
 
