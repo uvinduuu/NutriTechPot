@@ -1,16 +1,6 @@
 # NutriTechPot
-# NutriTech Pot
-
-## Project Report
 
 **EN - 1190 ENGINEERING DESIGN PROJECT**
-
-**Group: Power On**
-
-### Group Members
-- Kodikara U.S.S (210293K)
-- Kodithuwakku J.N. (210294N)
-- Sehara G.M.M. (210583B)
 
 ---
 
@@ -71,16 +61,16 @@ Initially, we planned to use a Wi-Fi module (ESP 8266) for communication between
 ## Designs
 
 ### Schematic Diagram
-![Schematic Diagram](path/to/schematic.png)
+![Schematic Diagram](Documentation/Images/Schematic-Design.jpg)
 
 ### NutriTech Pot App
-![NutriTech Pot App](path/to/app.png)
+![NutriTech Pot App](Documentation/Images/Application.jpg)
 
 ### Altium Design
-![Altium Design](path/to/altium.png)
+![Altium Design](Documentation/Images/Altium-Design.jpg)
 
 ### Final Enclosure
-![Final Enclosure](path/to/enclosure.png)
+![Final Enclosure](Documentation/Images/Enclosure-Design.jpg)
 
 ---
 
