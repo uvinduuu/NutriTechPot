@@ -32,7 +32,3 @@ Nutritech Pot is a smart watering system designed to help you maintain optimal s
 2. Select your Nutritech Pot device from the list of available devices.
 3. Monitor the soil moisture level and water tank level displayed on the main screen.
 4. Refill the water tank when you receive an alert.
-
-## User Interface
-
-![User Interface](images/application.jpg)
